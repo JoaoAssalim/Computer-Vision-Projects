@@ -1,0 +1,10 @@
+/venv
+.env
+.pyc
+/__pycache__
+__init__.py
+/Car Detection
+*.jpg
+*.jpeg
+*.png
+*.jiff
